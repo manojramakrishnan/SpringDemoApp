@@ -15,7 +15,7 @@ public class LoginController {
 	public ModelAndView login(HttpServletRequest request, HttpServletResponse res) {
 		System.out.println("first code");
 		
-		
+		System.out.println("This is a test");
 		
 		
 		AddService service = new AddService();
